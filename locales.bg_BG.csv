@@ -1,82 +1,82 @@
 locale_id,engine,country,country_code,language,language_code,location,location_type,adwords_criteria_id,adwords_exact_match
-2378,Google,Bulgaria,bg,Bulgarian,bg,"Asenovgrad, Plovdiv Province",City,9040110,true
-2379,Google,Bulgaria,bg,Bulgarian,bg,"Aytos, Burgas",City,9040120,true
-2380,Google,Bulgaria,bg,Bulgarian,bg,"Balchik, Dobrich Province",City,9047677,true
-2381,Google,Bulgaria,bg,Bulgarian,bg,"Bansko, Blagoevgrad Province",City,9040104,true
-2382,Google,Bulgaria,bg,Bulgarian,bg,"Blagoevgrad, Blagoevgrad Province",City,1001445,true
-2383,Google,Bulgaria,bg,Bulgarian,bg,"Botevgrad, Sofia Province",City,9040129,true
-2384,Google,Bulgaria,bg,Bulgarian,bg,"Burgas, Burgas",City,1001449,true
-2385,Google,Bulgaria,bg,Bulgarian,bg,"Byala Slatina, Vraca",City,9047678,true
-2386,Google,Bulgaria,bg,Bulgarian,bg,"Chirpan, Stara Zagora",City,9047679,true
-2387,Google,Bulgaria,bg,Bulgarian,bg,"Dimitrovgrad, Haskovo Province",City,1001472,true
-2388,Google,Bulgaria,bg,Bulgarian,bg,"Dobrich, Dobrich Province",City,1001453,true
-2389,Google,Bulgaria,bg,Bulgarian,bg,"Dulovo, Silistra",City,9040143,true
-2390,Google,Bulgaria,bg,Bulgarian,bg,"Dupnica, Kyustendil Province",City,1001446,true
-2391,Google,Bulgaria,bg,Bulgarian,bg,"Etropole, Sofia Province",City,9047680,true
-2392,Google,Bulgaria,bg,Bulgarian,bg,"Gabrovo, Gabrovo",City,1001455,true
-2393,Google,Bulgaria,bg,Bulgarian,bg,"Gorna Oryahovitsa, Veliko Tarnovo Province",City,9040126,true
-2394,Google,Bulgaria,bg,Bulgarian,bg,"Gotse Delchev, Blagoevgrad Province",City,9047681,true
-2395,Google,Bulgaria,bg,Bulgarian,bg,"Harmanli, Haskovo Province",City,9040113,true
-2396,Google,Bulgaria,bg,Bulgarian,bg,Haskovo Province,City,9040114,true
-2397,Google,Bulgaria,bg,Bulgarian,bg,"Haskovo, Haskovo Province",City,1001473,true
-2398,Google,Bulgaria,bg,Bulgarian,bg,"Isperih, Razgrad",City,9040141,true
-2399,Google,Bulgaria,bg,Bulgarian,bg,"Kardzali, Kardzhali Province",City,1001474,true
-2400,Google,Bulgaria,bg,Bulgarian,bg,Kardzhali Province,City,9040111,true
-2401,Google,Bulgaria,bg,Bulgarian,bg,"Karnobat, Burgas",City,9047682,true
-2402,Google,Bulgaria,bg,Bulgarian,bg,"Kavarna, Dobrich Province",City,9047683,true
-2403,Google,Bulgaria,bg,Bulgarian,bg,"Kazanluk, Stara Zagora",City,1001475,true
-2404,Google,Bulgaria,bg,Bulgarian,bg,"Knezha, Pleven Province",City,9040132,true
-2405,Google,Bulgaria,bg,Bulgarian,bg,"Kozloduy, Vraca",City,9040135,true
-2406,Google,Bulgaria,bg,Bulgarian,bg,Kyustendil Province,City,9040100,true
-2407,Google,Bulgaria,bg,Bulgarian,bg,"Kyustendil, Kyustendil Province",City,1001447,true
-2408,Google,Bulgaria,bg,Bulgarian,bg,"Lom, Montana Province",City,9040144,true
-2409,Google,Bulgaria,bg,Bulgarian,bg,"Lovech, Lovec",City,1001456,true
-2410,Google,Bulgaria,bg,Bulgarian,bg,"Mezdra, Vraca",City,9047684,true
-2411,Google,Bulgaria,bg,Bulgarian,bg,"Momchilgrad, Kardzhali Province",City,9040112,true
-2412,Google,Bulgaria,bg,Bulgarian,bg,"Montana, Montana Province",City,1001460,true
-2413,Google,Bulgaria,bg,Bulgarian,bg,"Nessebar, Burgas",City,9047685,true
-2414,Google,Bulgaria,bg,Bulgarian,bg,"Nova Zagora, Sliven Province",City,9040124,true
-2415,Google,Bulgaria,bg,Bulgarian,bg,"Panagyurishte, Pazardzik",City,9040128,true
-2416,Google,Bulgaria,bg,Bulgarian,bg,"Parvomay, Plovdiv Province",City,9047686,true
-2417,Google,Bulgaria,bg,Bulgarian,bg,"Pavlikeni, Veliko Tarnovo Province",City,9047687,true
-2418,Google,Bulgaria,bg,Bulgarian,bg,"Pazardjik, Pazardzik",City,9040107,true
-2419,Google,Bulgaria,bg,Bulgarian,bg,"Pernik, Pernik",City,1001470,true
-2420,Google,Bulgaria,bg,Bulgarian,bg,"Peshtera, Pazardzik",City,9047688,true
-2421,Google,Bulgaria,bg,Bulgarian,bg,"Petrich, Blagoevgrad Province",City,1001471,true
-2422,Google,Bulgaria,bg,Bulgarian,bg,Pleven Province,City,9040134,true
-2423,Google,Bulgaria,bg,Bulgarian,bg,"Pleven, Pleven Province",City,1001457,true
-2424,Google,Bulgaria,bg,Bulgarian,bg,Plovdiv Province,City,9040109,true
-2425,Google,Bulgaria,bg,Bulgarian,bg,"Pomorie, Burgas",City,1001450,true
-2426,Google,Bulgaria,bg,Bulgarian,bg,"Popovo, Targovishte Province",City,9040138,true
-2427,Google,Bulgaria,bg,Bulgarian,bg,"Provadia, Varna",City,9047689,true
-2428,Google,Bulgaria,bg,Bulgarian,bg,"Radnevo, Stara Zagora",City,9047690,true
-2429,Google,Bulgaria,bg,Bulgarian,bg,"Razgrad, Razgrad",City,1001466,true
-2430,Google,Bulgaria,bg,Bulgarian,bg,"Razlog, Blagoevgrad Province",City,9047691,true
-2431,Google,Bulgaria,bg,Bulgarian,bg,Ruse,City,9040137,true
-2432,Google,Bulgaria,bg,Bulgarian,bg,"Ruse, Ruse",City,1001467,true
-2433,Google,Bulgaria,bg,Bulgarian,bg,"Samokov, Sofia Province",City,9040102,true
-2434,Google,Bulgaria,bg,Bulgarian,bg,"Sandanski, Blagoevgrad Province",City,9040099,true
-2435,Google,Bulgaria,bg,Bulgarian,bg,"Shumen, Shumen Province",City,9040117,true
-2436,Google,Bulgaria,bg,Bulgarian,bg,"Silistra, Silistra",City,1001468,true
-2437,Google,Bulgaria,bg,Bulgarian,bg,"Sliven, Sliven Province",City,1001451,true
-2438,Google,Bulgaria,bg,Bulgarian,bg,"Smolyan, Smoljan",City,1001465,true
-2439,Google,Bulgaria,bg,Bulgarian,bg,Sofia Province,City,9040130,true
-2440,Google,Bulgaria,bg,Bulgarian,bg,"Stara Zagora, Stara Zagora",City,1001476,true
-2441,Google,Bulgaria,bg,Bulgarian,bg,"Sunny Beach, Burgas",City,9047692,true
-2442,Google,Bulgaria,bg,Bulgarian,bg,"Svilengrad, Haskovo Province",City,1001477,true
-2443,Google,Bulgaria,bg,Bulgarian,bg,"Svishtov, Veliko Tarnovo Province",City,9040136,true
-2444,Google,Bulgaria,bg,Bulgarian,bg,Targovishte Province,City,9040139,true
-2445,Google,Bulgaria,bg,Bulgarian,bg,"Targovishte, Targovishte Province",City,1001469,true
-2446,Google,Bulgaria,bg,Bulgarian,bg,"Troyan, Lovec",City,9047693,true
-2447,Google,Bulgaria,bg,Bulgarian,bg,"Tryavna, Gabrovo",City,9047694,true
-2448,Google,Bulgaria,bg,Bulgarian,bg,Varna,City,9040118,true
-2449,Google,Bulgaria,bg,Bulgarian,bg,"Varna, Varna",City,1001454,true
-2450,Google,Bulgaria,bg,Bulgarian,bg,Veliko Tarnovo Province,City,9040127,true
-2451,Google,Bulgaria,bg,Bulgarian,bg,"Veliko Tarnovo, Veliko Tarnovo Province",City,1001459,true
-2452,Google,Bulgaria,bg,Bulgarian,bg,"Velingrad, Pazardzik",City,9040103,true
-2453,Google,Bulgaria,bg,Bulgarian,bg,"Vidin, Vidin",City,1001461,true
-2454,Google,Bulgaria,bg,Bulgarian,bg,"Vratsa, Vraca",City,1001462,true
-2455,Google,Bulgaria,bg,Bulgarian,bg,"Yambol, Jambol",City,1001452,true
+2378,Google,Bulgaria,bg,Bulgarian,bg,"Asenovgrad (Асеновград)",City,9040110,true
+2379,Google,Bulgaria,bg,Bulgarian,bg,"Aytos (Айтос)",City,9040120,true
+2380,Google,Bulgaria,bg,Bulgarian,bg,"Balchik (Балчик)",City,9047677,true
+2381,Google,Bulgaria,bg,Bulgarian,bg,"Bansko (Банско)",City,9040104,true
+2382,Google,Bulgaria,bg,Bulgarian,bg,"Blagoevgrad (Благоевград)",City,1001445,true
+2383,Google,Bulgaria,bg,Bulgarian,bg,"Botevgrad (Ботевград)",City,9040129,true
+2384,Google,Bulgaria,bg,Bulgarian,bg,"Burgas (Бургас)",City,1001449,true
+2385,Google,Bulgaria,bg,Bulgarian,bg,"Byala Slatina (Бяла Слатина)",City,9047678,true
+2386,Google,Bulgaria,bg,Bulgarian,bg,"Chirpan (Чирпан)",City,9047679,true
+2387,Google,Bulgaria,bg,Bulgarian,bg,"Dimitrovgrad (Димитровград)",City,1001472,true
+2388,Google,Bulgaria,bg,Bulgarian,bg,"Dobrich (Добрич)",City,1001453,true
+2389,Google,Bulgaria,bg,Bulgarian,bg,"Dulovo (Дулово)",City,9040143,true
+2390,Google,Bulgaria,bg,Bulgarian,bg,"Dupnica (Дупница)",City,1001446,true
+2391,Google,Bulgaria,bg,Bulgarian,bg,"Etropole (Етрополе)",City,9047680,true
+2392,Google,Bulgaria,bg,Bulgarian,bg,"Gabrovo (Габрово)",City,1001455,true
+2393,Google,Bulgaria,bg,Bulgarian,bg,"Gorna Oryahovitsa (Горна Оряховица)",City,9040126,true
+2394,Google,Bulgaria,bg,Bulgarian,bg,"Gotse Delchev (Гоце Делчев)",City,9047681,true
+2395,Google,Bulgaria,bg,Bulgarian,bg,"Harmanli (Харманли)",City,9040113,true
+2396,Google,Bulgaria,bg,Bulgarian,bg,Haskovo (Хасково),City,9040114,true
+2397,Google,Bulgaria,bg,Bulgarian,bg,"Haskovo (Хасково)",City,1001473,true
+2398,Google,Bulgaria,bg,Bulgarian,bg,"Isperih (Исперих)",City,9040141,true
+2399,Google,Bulgaria,bg,Bulgarian,bg,"Kardzali (Кърджали)",City,1001474,true
+2400,Google,Bulgaria,bg,Bulgarian,bg,Kardzhali (Кърджали),City,9040111,true
+2401,Google,Bulgaria,bg,Bulgarian,bg,"Karnobat (Карнобат)",City,9047682,true
+2402,Google,Bulgaria,bg,Bulgarian,bg,"Kavarna (Каварна)",City,9047683,true
+2403,Google,Bulgaria,bg,Bulgarian,bg,"Kazanluk (Казанлък)",City,1001475,true
+2404,Google,Bulgaria,bg,Bulgarian,bg,"Knezha (Кнежа)",City,9040132,true
+2405,Google,Bulgaria,bg,Bulgarian,bg,"Kozloduy (Козлодуй)",City,9040135,true
+2406,Google,Bulgaria,bg,Bulgarian,bg,Kyustendil (Кюстендил),City,9040100,true
+2407,Google,Bulgaria,bg,Bulgarian,bg,"Kyustendil (Кюстендил)",City,1001447,true
+2408,Google,Bulgaria,bg,Bulgarian,bg,"Lom (Лом)",City,9040144,true
+2409,Google,Bulgaria,bg,Bulgarian,bg,"Lovech (Ловеч)",City,1001456,true
+2410,Google,Bulgaria,bg,Bulgarian,bg,"Mezdra (Мездра)",City,9047684,true
+2411,Google,Bulgaria,bg,Bulgarian,bg,"Momchilgrad (Момчилград)",City,9040112,true
+2412,Google,Bulgaria,bg,Bulgarian,bg,"Montana (Монтана)",City,1001460,true
+2413,Google,Bulgaria,bg,Bulgarian,bg,"Nessebar (Несебър)",City,9047685,true
+2414,Google,Bulgaria,bg,Bulgarian,bg,"Nova Zagora (Нова Загора)",City,9040124,true
+2415,Google,Bulgaria,bg,Bulgarian,bg,"Panagyurishte (Панагюрище)",City,9040128,true
+2416,Google,Bulgaria,bg,Bulgarian,bg,"Parvomay (Първомай)",City,9047686,true
+2417,Google,Bulgaria,bg,Bulgarian,bg,"Pavlikeni (Павликени)",City,9047687,true
+2418,Google,Bulgaria,bg,Bulgarian,bg,"Pazardjik (Пазарджик)",City,9040107,true
+2419,Google,Bulgaria,bg,Bulgarian,bg,"Pernik (Перник)",City,1001470,true
+2420,Google,Bulgaria,bg,Bulgarian,bg,"Peshtera (Пещера)",City,9047688,true
+2421,Google,Bulgaria,bg,Bulgarian,bg,"Petrich (Петрич)",City,1001471,true
+2422,Google,Bulgaria,bg,Bulgarian,bg,Pleven (Плевен),City,9040134,true
+2423,Google,Bulgaria,bg,Bulgarian,bg,"Pleven (Плевен)",City,1001457,true
+2424,Google,Bulgaria,bg,Bulgarian,bg,Plovdiv (Пловдив),City,9040109,true
+2425,Google,Bulgaria,bg,Bulgarian,bg,"Pomorie (Поморие)",City,1001450,true
+2426,Google,Bulgaria,bg,Bulgarian,bg,"Popovo (Попово)",City,9040138,true
+2427,Google,Bulgaria,bg,Bulgarian,bg,"Provadia (Провадия)",City,9047689,true
+2428,Google,Bulgaria,bg,Bulgarian,bg,"Radnevo (Раднево)",City,9047690,true
+2429,Google,Bulgaria,bg,Bulgarian,bg,"Razgrad (Разград)",City,1001466,true
+2430,Google,Bulgaria,bg,Bulgarian,bg,"Razlog (Разлог)",City,9047691,true
+2431,Google,Bulgaria,bg,Bulgarian,bg,Ruse (Русе),City,9040137,true
+2432,Google,Bulgaria,bg,Bulgarian,bg,"Ruse (Русе)",City,1001467,true
+2433,Google,Bulgaria,bg,Bulgarian,bg,"Samokov (Самоков)",City,9040102,true
+2434,Google,Bulgaria,bg,Bulgarian,bg,"Sandanski (Сандански)",City,9040099,true
+2435,Google,Bulgaria,bg,Bulgarian,bg,"Shumen (Шумен)",City,9040117,true
+2436,Google,Bulgaria,bg,Bulgarian,bg,"Silistra (Силистра)",City,1001468,true
+2437,Google,Bulgaria,bg,Bulgarian,bg,"Sliven (Сливен)",City,1001451,true
+2438,Google,Bulgaria,bg,Bulgarian,bg,"Smolyan (Смолян)",City,1001465,true
+2439,Google,Bulgaria,bg,Bulgarian,bg,Sofia (София-град),City,9040130,true
+2440,Google,Bulgaria,bg,Bulgarian,bg,"Stara Zagora (Стара Загора)",City,1001476,true
+2441,Google,Bulgaria,bg,Bulgarian,bg,"Sunny Beach (Слънчев бряг)",City,9047692,true
+2442,Google,Bulgaria,bg,Bulgarian,bg,"Svilengrad (Свиленград)",City,1001477,true
+2443,Google,Bulgaria,bg,Bulgarian,bg,"Svishtov (Свищов)",City,9040136,true
+2444,Google,Bulgaria,bg,Bulgarian,bg,Targovishte (Търговище),City,9040139,true
+2445,Google,Bulgaria,bg,Bulgarian,bg,"Targovishte (Търговище)",City,1001469,true
+2446,Google,Bulgaria,bg,Bulgarian,bg,"Troyan (Троян)",City,9047693,true
+2447,Google,Bulgaria,bg,Bulgarian,bg,"Tryavna (Трявна)",City,9047694,true
+2448,Google,Bulgaria,bg,Bulgarian,bg,Varna (Варна),City,9040118,true
+2449,Google,Bulgaria,bg,Bulgarian,bg,"Varna (Варна)",City,1001454,true
+2450,Google,Bulgaria,bg,Bulgarian,bg,Veliko Tarnovo (Велико Търново),City,9040127,true
+2451,Google,Bulgaria,bg,Bulgarian,bg,"Veliko Tarnovo (Велико Търново)",City,1001459,true
+2452,Google,Bulgaria,bg,Bulgarian,bg,"Velingrad (Велинград)",City,9040103,true
+2453,Google,Bulgaria,bg,Bulgarian,bg,"Vidin (Видин)",City,1001461,true
+2454,Google,Bulgaria,bg,Bulgarian,bg,"Vratsa (Враца)",City,1001462,true
+2455,Google,Bulgaria,bg,Bulgarian,bg,"Yambol (Ямбол)",City,1001452,true
 2456,Google,Bulgaria,bg,Bulgarian,bg,"",Country,2100,true
 2457,Google,Bulgaria,bg,Bulgarian,bg,Blagoevgrad (обл. Благоевград),Province,9040105,true
 2458,Google,Bulgaria,bg,Bulgarian,bg,Burgas (обл. Бургас),Province,9040121,true
