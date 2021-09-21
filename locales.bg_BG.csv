@@ -78,21 +78,21 @@ locale_id,engine,country,country_code,language,language_code,location,location_t
 2454,Google,Bulgaria,bg,Bulgarian,bg,"Vratsa, Vraca",City,1001462,true
 2455,Google,Bulgaria,bg,Bulgarian,bg,"Yambol, Jambol",City,1001452,true
 2456,Google,Bulgaria,bg,Bulgarian,bg,"",Country,2100,true
-2457,Google,Bulgaria,bg,Bulgarian,bg,Blagoevgrad Province,Province,9040105,true
-2458,Google,Bulgaria,bg,Bulgarian,bg,Burgas,Province,9040121,true
-2459,Google,Bulgaria,bg,Bulgarian,bg,Dobrich Province,Province,9040115,true
-2460,Google,Bulgaria,bg,Bulgarian,bg,Gabrovo,Province,9040125,true
-2461,Google,Bulgaria,bg,Bulgarian,bg,Jambol,Province,9040122,true
-2462,Google,Bulgaria,bg,Bulgarian,bg,Lovec,Province,9040133,true
-2463,Google,Bulgaria,bg,Bulgarian,bg,Montana Province,Province,9040146,true
-2464,Google,Bulgaria,bg,Bulgarian,bg,Pazardzik,Province,9040108,true
-2465,Google,Bulgaria,bg,Bulgarian,bg,Pernik,Province,9040101,true
-2466,Google,Bulgaria,bg,Bulgarian,bg,Razgrad,Province,9040140,true
-2467,Google,Bulgaria,bg,Bulgarian,bg,Shumen Province,Province,9040116,true
-2468,Google,Bulgaria,bg,Bulgarian,bg,Silistra,Province,9040142,true
-2469,Google,Bulgaria,bg,Bulgarian,bg,Sliven Province,Province,9040119,true
-2470,Google,Bulgaria,bg,Bulgarian,bg,Smoljan,Province,9040106,true
-2471,Google,Bulgaria,bg,Bulgarian,bg,Sofia-city,Province,9047101,true
-2472,Google,Bulgaria,bg,Bulgarian,bg,Stara Zagora,Province,9040123,true
-2473,Google,Bulgaria,bg,Bulgarian,bg,Vidin,Province,9040145,true
-2474,Google,Bulgaria,bg,Bulgarian,bg,Vraca,Province,9040131,true
+2457,Google,Bulgaria,bg,Bulgarian,bg,Blagoevgrad (обл. Благоевград),Province,9040105,true
+2458,Google,Bulgaria,bg,Bulgarian,bg,Burgas (обл. Бургас),Province,9040121,true
+2459,Google,Bulgaria,bg,Bulgarian,bg,Dobritch (обл. Добрич),Province,9040115,true
+2460,Google,Bulgaria,bg,Bulgarian,bg,Gabrovo (обл. Габрово),Province,9040125,true
+2461,Google,Bulgaria,bg,Bulgarian,bg,Yambol (обл. Ямбол),Province,9040122,true
+2462,Google,Bulgaria,bg,Bulgarian,bg,Lovetch (обл. Ловеч),Province,9040133,true
+2463,Google,Bulgaria,bg,Bulgarian,bg,Montana (обл. Монтана),Province,9040146,true
+2464,Google,Bulgaria,bg,Bulgarian,bg,Pazardzhik (обл. Пазарджик),Province,9040108,true
+2465,Google,Bulgaria,bg,Bulgarian,bg,Pernik (обл. Перник),Province,9040101,true
+2466,Google,Bulgaria,bg,Bulgarian,bg,Razgrad (обл. Разград),Province,9040140,true
+2467,Google,Bulgaria,bg,Bulgarian,bg,Shumen (обл. Шумен),Province,9040116,true
+2468,Google,Bulgaria,bg,Bulgarian,bg,Silistra (обл. Силистра),Province,9040142,true
+2469,Google,Bulgaria,bg,Bulgarian,bg,Sliven (обл. Сливен),Province,9040119,true
+2470,Google,Bulgaria,bg,Bulgarian,bg,Smolyan (обл. Смолян),Province,9040106,true
+2471,Google,Bulgaria,bg,Bulgarian,bg,Sofia-city (обл. София-град),Province,9047101,true
+2472,Google,Bulgaria,bg,Bulgarian,bg,Stara Zagora (обл. Стара Загора),Province,9040123,true
+2473,Google,Bulgaria,bg,Bulgarian,bg,Vidin (обл. Видин),Province,9040145,true
+2474,Google,Bulgaria,bg,Bulgarian,bg,Vraca (обл. Враца),Province,9040131,true
